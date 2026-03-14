@@ -1,4 +1,4 @@
-# CTOR‑Labs  
+CTOR‑Labs  
 ### Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
 
 CTOR‑Labs is a research laboratory dedicated to studying **system-level intelligence** emerging in hybrid environments where humans and AI agents interact.  
