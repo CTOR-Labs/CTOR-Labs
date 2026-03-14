@@ -79,6 +79,25 @@ flowchart LR
 ```
 
 ---
+## 📌 Projects at a Glance
+
+CTOR‑Labs maintains several structured research branches, each representing a distinct interaction regime inside the CTOR environment.
+
+### 🤖 CTOR‑AI‑AI  
+AI‑vs‑AI matches for studying emergent strategies, distributed attention, and system‑level cognition arising purely from artificial agents.  
+👉 https://github.com/CTOR-Labs/CTOR-AI-AI
+
+### 🧑‍🤝‍🧑 CTOR‑H2H  
+Human‑vs‑Human matches inside CTOR, used as a baseline for comparing human strategic behavior, coordination, and intuition.  
+👉 https://github.com/CTOR-Labs/CTOR-H2H
+
+### 🧑‍🤖 CTOR‑H2AI  
+Hybrid Human‑vs‑AI matches — the core experimental track for studying hybrid cognition, collective intuition, and emergent cooperation.  
+👉 https://github.com/CTOR-Labs/CTOR-H2AI
+
+### 🧩 CTOR‑TEAM‑TEAM  
+Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence, distributed roles, and system‑level identity.  
+👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
 
 # 🌐 Project Website
 
