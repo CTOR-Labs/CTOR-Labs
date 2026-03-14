@@ -143,7 +143,7 @@ flowchart TB
 ```mermaid
 flowchart TB
 
-    subgraph REGS["Emergent Cognitive Regimes"]
+    subgraph REGS["Emergent Cognitive Regimes "]
         R1["Distributed Attention"]
         R2["Collective Anticipation"]
         R3["Emergent Strategy Formation"]
@@ -177,6 +177,7 @@ We define four core metrics:
 ```mermaid
 flowchart TB
 
+    %% force rerender
     subgraph SLI["System-Level Intelligence"]
         S["System-Level Intelligence"]
     end
@@ -205,7 +206,7 @@ The **Bronn Test** determines whether a system demonstrates cognition that excee
 ```mermaid
 flowchart TB
 
-    CTOR["CTOR Environment"] --> DATA["Game Data"]
+    CTOR["CTOR Environment "] --> DATA["Game Data"]
     DATA --> METRICS["Metrics Layer"]
     METRICS --> SCORE["System-Level Score"]
     SCORE --> BRONN["Bronn Test\n(Pass / Fail)"]
@@ -219,8 +220,8 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-
-    CTOR["CTOR Environment"] --> TRAJ["Game Trajectories"]
+ 
+    CTOR["CTOR Environment "] --> TRAJ["Game Trajectories"]
     TRAJ --> ANALYSIS["Data Extraction & Analysis"]
     ANALYSIS --> METRICS["CIQ • IIQ • AQ • GQ"]
     METRICS --> SCORE["System-Level Intelligence Score"]
