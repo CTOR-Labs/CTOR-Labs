@@ -1,4 +1,4 @@
-CTOR‑Labs  
+# CTOR‑Labs  
 ### Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
 
 CTOR‑Labs is a research laboratory dedicated to studying **system-level intelligence** emerging in hybrid environments where humans and AI agents interact.  
@@ -32,16 +32,16 @@ CAI Systems represent a new level of cognitive organization emerging in hybrid h
 ```mermaid
 flowchart LR
     subgraph BIO["Biological Evolution"]
-        A1["Physical & Social Environment<br/>(Nature, Society)"]
-        A2["Human Brain<br/>(Biological)"]
-        A3["Human Intelligence<br/>(Intuition, Social Cognition)"]
+        A1["Physical & Social Environment\n(Nature, Society)"]
+        A2["Human Brain\n(Biological)"]
+        A3["Human Intelligence\n(Intuition, Social Cognition)"]
         A1 --> A2 --> A3
     end
 
     subgraph HYB["Hybrid / Artificial Evolution"]
-        B1["Artificial Shared Environment<br/>(CTOR-like, Digital, Networked)"]
-        B2["Humans + AI Agents<br/>in Shared Environment"]
-        B3["CAI Systems<br/>(System-Level Cognition,<br/>New Cognitive Regimes)"]
+        B1["Artificial Shared Environment\n(CTOR-like, Digital, Networked)"]
+        B2["Humans + AI Agents\nin Shared Environment"]
+        B3["CAI Systems\n(System-Level Cognition,\nNew Cognitive Regimes)"]
         B1 --> B2 --> B3
     end
 
@@ -59,7 +59,7 @@ CAI Systems emerge through structured interactions between humans and AI agents,
 ```mermaid
 flowchart TB
 
-    subgraph SYSTEM["CAI SYSTEM (System-Level Intelligence)"]
+    subgraph SYSTEM["CAI SYSTEM\n(System-Level Intelligence)"]
         SYS["System-Level Intelligence"]
     end
 
@@ -182,10 +182,10 @@ flowchart TB
     end
 
     subgraph METRICS["Metrics of System-Level Cognition"]
-        CIQ["CIQ<br/>(Collective Intuition)"]
-        IIQ["IIQ<br/>(Interaction Quality)"]
-        AQ["AQ<br/>(Adaptation)"]
-        GQ["GQ<br/>(Group Coherence)"]
+        CIQ["CIQ\n(Collective Intuition)"]
+        IIQ["IIQ\n(Interaction Quality)"]
+        AQ["AQ\n(Adaptation)"]
+        GQ["GQ\n(Group Coherence)"]
     end
 
     CIQ --> S
@@ -208,7 +208,7 @@ flowchart TB
     CTOR["CTOR Environment"] --> DATA["Game Data"]
     DATA --> METRICS["Metrics Layer"]
     METRICS --> SCORE["System-Level Score"]
-    SCORE --> BRONN["Bronn Test<br/>Pass / Fail"]
+    SCORE --> BRONN["Bronn Test\n(Pass / Fail)"]
 ```
 
 ---
@@ -282,5 +282,7 @@ please contact via LinkedIn:
 👉 **https://www.linkedin.com/in/vladimir-bronnikov-51b1212/**
 
 **Status:** *Venture*
+
+
 
 
