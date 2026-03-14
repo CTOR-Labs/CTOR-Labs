@@ -22,7 +22,37 @@ We study:
 - system-level cognitive identity  
 
 ---
+## 📌 Who Is CTOR For?
 
+CTOR is designed as a universal research and educational platform for anyone exploring the future of intelligence beyond individual agents.
+
+### 🎓 Students of AI & Machine Learning  
+A hands‑on environment to study multi‑agent systems, emergent behavior, and hybrid cognition through real experiments.
+
+### 👩‍🏫 Educators & Professors  
+A ready‑to‑use platform for teaching:  
+- collective intelligence  
+- agent‑based modeling  
+- human–AI collaboration  
+- system‑level cognition
+
+### 🧠 AI Researchers  
+A controlled environment for testing hypotheses about:  
+- emergent strategies  
+- distributed attention  
+- collective intuition  
+- hybrid cognitive regimes
+
+### 🧩 Developers & Engineers  
+A modular, extensible system for building:  
+- AI agents  
+- analytics pipelines  
+- multi‑agent architectures  
+- experimental cognitive systems
+
+### 🚀 Visionaries & Innovators  
+A glimpse into the next evolutionary step of intelligence —  
+not artificial, not biological, but **collective**.
 ## 📌 CAI Systems: A New Evolutionary Branch of Intelligence
 
 ### **Figure 1. Evolutionary Trajectory of Intelligence**
