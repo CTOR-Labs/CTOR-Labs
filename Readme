@@ -1,4 +1,3 @@
-markdown
 # CTOR‑Labs  
 ### Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
 
@@ -47,11 +46,17 @@ flowchart LR
     end
 
     BIO --- HYB
-📌 Architecture of CAI Systems
-CAI Systems emerge through structured interactions between humans and AI agents, producing emergent cognitive regimes.
+```
 
-Figure 2. Structure of CAI Systems
-mermaid
+---
+
+## 📌 Architecture of CAI Systems
+
+CAI Systems emerge through structured interactions between humans and AI agents, producing **emergent cognitive regimes**.
+
+### **Figure 2. Structure of CAI Systems**
+
+```mermaid
 flowchart TB
 
     subgraph SYSTEM["CAI SYSTEM (System-Level Intelligence)"]
@@ -87,12 +92,18 @@ flowchart TB
     AI --> INT
     INT --> REGS
     REGS --> SYS
-📌 CTOR: Experimental Environment
-CTOR is a game-based environment with fixed rules where humans and AI agents interact in teams.
-It serves as an experimental platform for studying system-level intelligence.
+```
 
-Figure 3. CTOR Architecture
-mermaid
+---
+
+## 📌 CTOR: Experimental Environment
+
+CTOR is a game-based environment with fixed rules where humans and AI agents interact in teams.  
+It serves as an **experimental platform** for studying system-level intelligence.
+
+### **Figure 3. CTOR Architecture**
+
+```mermaid
 flowchart TB
 
     subgraph CTOR["CTOR — Shared Game Environment"]
@@ -121,9 +132,15 @@ flowchart TB
     AI --> TEAM
     TEAM --> TRAJ
     TRAJ --> CTOR
-📌 Emergent Cognitive Regimes
-Figure 4. Emergent Cognitive Regimes
-mermaid
+```
+
+---
+
+## 📌 Emergent Cognitive Regimes
+
+### **Figure 4. Emergent Cognitive Regimes**
+
+```mermaid
 flowchart TB
 
     subgraph REGS["Emergent Cognitive Regimes"]
@@ -142,19 +159,22 @@ flowchart TB
     end
 
     INT --> REGS
-📌 Metrics of System-Level Intelligence
+```
+
+---
+
+## 📌 Metrics of System-Level Intelligence
+
 We define four core metrics:
 
-CIQ — Collective Intuition Quotient
+- **CIQ** — Collective Intuition Quotient  
+- **IIQ** — Interaction Intelligence Quotient  
+- **AQ** — Adaptation Quotient  
+- **GQ** — Group Coherence Quotient  
 
-IIQ — Interaction Intelligence Quotient
+### **Figure 5. Metrics of System-Level Intelligence**
 
-AQ — Adaptation Quotient
-
-GQ — Group Coherence Quotient
-
-Figure 5. Metrics of System-Level Intelligence
-mermaid
+```mermaid
 flowchart TB
 
     subgraph SLI["System-Level Intelligence"]
@@ -172,20 +192,32 @@ flowchart TB
     IIQ --> S
     AQ --> S
     GQ --> S
-📌 Bronn Test
-The Bronn Test determines whether a system demonstrates cognition that exceeds the capabilities of any individual agent.
+```
 
-Figure 6. CTOR → Metrics → Bronn Test (Compact)
-mermaid
+---
+
+## 📌 Bronn Test
+
+The **Bronn Test** determines whether a system demonstrates cognition that exceeds the capabilities of any individual agent.
+
+### **Figure 6. CTOR → Metrics → Bronn Test (Compact)**
+
+```mermaid
 flowchart TB
 
     CTOR["CTOR Environment"] --> DATA["Game Data"]
     DATA --> METRICS["Metrics Layer"]
     METRICS --> SCORE["System-Level Score"]
     SCORE --> BRONN["Bronn Test<br/>Pass / Fail"]
-📌 Full Pipeline
-Figure 7. Extended Pipeline
-mermaid
+```
+
+---
+
+## 📌 Full Pipeline
+
+### **Figure 7. Extended Pipeline**
+
+```mermaid
 flowchart TB
 
     CTOR["CTOR Environment"] --> TRAJ["Game Trajectories"]
@@ -193,46 +225,62 @@ flowchart TB
     ANALYSIS --> METRICS["CIQ • IIQ • AQ • GQ"]
     METRICS --> SCORE["System-Level Intelligence Score"]
     SCORE --> BRONN["Bronn Test"]
-🌐 Project Website
-Visit the official project website:
+```
 
-👉 https://www.ctorgame.com
+---
 
-🤝 How to Contribute
-CTOR‑Labs welcomes contributors from different backgrounds.
-There are three ways to support the project:
+# 🌐 Project Website
 
-⭐ 1. Ambassador — Spread the Word
+👉 **https://www.ctorgame.com**
+
+---
+
+# 🤝 How to Contribute
+
+CTOR‑Labs welcomes contributors from different backgrounds.  
+There are **three ways** to support the project:
+
+---
+
+## ⭐ 1. Ambassador — Spread the Word
+
 Help the project grow by:
 
-sharing CTOR‑Labs materials on social media
+- sharing CTOR‑Labs materials on social media  
+- writing posts about the research  
+- inviting others to follow the project  
 
-writing posts about the research
+**Status:** *Ambassador*
 
-inviting others to follow the project
+---
 
-Status: Ambassador
+## ⭐ 2. Team Member — Contribute to Development
 
-⭐ 2. Team Member — Contribute to Development
 Join the project as a contributor in one of the key roles:
 
-CTO — technical leadership, architecture, engineering
+- **CTO** — technical leadership, architecture, engineering  
+- **CMO** — communication, outreach, community  
+- **Domain Lead** — AI, game design, research, analytics  
 
-CMO — communication, outreach, community
+**Status:** *Team Member*
 
-Domain Lead — AI, game design, research, analytics
+---
 
-Status: Team Member
+## ⭐ 3. Investor — Support the Project Financially
 
-⭐ 3. Investor — Support the Project Financially
 You can support CTOR‑Labs through Patreon.
 
-Status: Investor
+**Status:** *Investor*
 
-💼 How to Buy Company Shares (Venture)
-If you are interested in venture‑level participation and purchasing company shares,
+---
+
+# 💼 How to Buy Company Shares (Venture)
+
+If you are interested in **venture‑level participation** and purchasing company shares,  
 please contact via LinkedIn:
 
-👉 https://www.linkedin.com/in/vladimir-bronnikov-51b1212/
+👉 **https://www.linkedin.com/in/vladimir-bronnikov-51b1212/**
 
-Status: Venture
+**Status:** *Venture*
+
+
