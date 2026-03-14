@@ -1,0 +1,237 @@
+# CTOR‑Labs  
+### Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
+
+CTOR‑Labs is a research laboratory dedicated to studying **system-level intelligence** emerging in hybrid environments where humans and AI agents interact.  
+We develop a new paradigm — **CAI Systems (Collective Artificial Intelligence Systems)** — and build experimental tools to validate it.
+
+---
+
+## 📌 Mission
+
+Our mission is to investigate and formalize **new forms of intelligence** that arise:
+
+- not in individual models,  
+- not in individual humans,  
+- but in **systems** where many agents interact within a shared environment.
+
+We study:
+
+- emergent cognitive regimes  
+- collective intuition  
+- hybrid forms of reasoning  
+- system-level cognitive identity  
+
+---
+
+## 📌 CAI Systems: A New Evolutionary Branch of Intelligence
+
+CAI Systems represent a new level of cognitive organization emerging in hybrid human–AI collectives.
+
+### **Figure 1. Evolutionary Trajectory of Intelligence**
+
+```mermaid
+flowchart LR
+    subgraph BIO["Biological Evolution"]
+        A1["Physical & Social Environment<br/>(Nature, Society)"]
+        A2["Human Brain<br/>(Biological)"]
+        A3["Human Intelligence<br/>(Intuition, Social Cognition)"]
+        A1 --> A2 --> A3
+    end
+
+    subgraph HYB["Hybrid / Artificial Evolution"]
+        B1["Artificial Shared Environment<br/>(CTOR-like, Digital, Networked)"]
+        B2["Humans + AI Agents<br/>in Shared Environment"]
+        B3["CAI Systems<br/>(System-Level Cognition,<br/>New Cognitive Regimes)"]
+        B1 --> B2 --> B3
+    end
+
+    BIO --- HYB
+📌 Architecture of CAI Systems
+CAI Systems emerge through structured interactions between humans and AI agents, producing emergent cognitive regimes.
+
+Figure 2. Structure of CAI Systems
+mermaid
+flowchart TB
+
+    subgraph SYSTEM["CAI SYSTEM (System-Level Intelligence)"]
+        SYS["System-Level Intelligence"]
+    end
+
+    subgraph REGS["Emergent Cognitive Regimes"]
+        R1["Distributed Attention"]
+        R2["Collective Anticipation"]
+        R3["Emergent Strategy Formation"]
+        R4["Hybrid Cognitive Synergy"]
+        R5["Collective Intuition"]
+        R6["System-Level Identity"]
+    end
+
+    subgraph HUM["Human Agents"]
+        H1["Human Agent H1"]
+        H2["Human Agent H2"]
+    end
+
+    subgraph AI["AI Agents"]
+        A1["AI Agent A1"]
+        A2["AI Agent A2"]
+    end
+
+    subgraph INT["Interactions Layer"]
+        I1["Communication"]
+        I2["Coordination"]
+        I3["Feedback Loops"]
+    end
+
+    HUM --> INT
+    AI --> INT
+    INT --> REGS
+    REGS --> SYS
+📌 CTOR: Experimental Environment
+CTOR is a game-based environment with fixed rules where humans and AI agents interact in teams.
+It serves as an experimental platform for studying system-level intelligence.
+
+Figure 3. CTOR Architecture
+mermaid
+flowchart TB
+
+    subgraph CTOR["CTOR — Shared Game Environment"]
+        RULES["Fixed Rules"]
+    end
+
+    subgraph HUM["Human Players"]
+        H1["H1"]
+        H2["H2"]
+    end
+
+    subgraph AI["AI Agents"]
+        A1["A1"]
+        A2["A2"]
+    end
+
+    subgraph TEAM["Teams / Matches"]
+        T1["1v1 / 2v2 / Hybrid Teams"]
+    end
+
+    subgraph TRAJ["Game Trajectories"]
+        TR["Actions, States, Timing"]
+    end
+
+    HUM --> TEAM
+    AI --> TEAM
+    TEAM --> TRAJ
+    TRAJ --> CTOR
+📌 Emergent Cognitive Regimes
+Figure 4. Emergent Cognitive Regimes
+mermaid
+flowchart TB
+
+    subgraph REGS["Emergent Cognitive Regimes"]
+        R1["Distributed Attention"]
+        R2["Collective Anticipation"]
+        R3["Emergent Strategy Formation"]
+        R4["Hybrid Cognitive Synergy"]
+        R5["Collective Intuition"]
+        R6["System-Level Identity"]
+    end
+
+    subgraph INT["Interactions"]
+        I1["Human–AI"]
+        I2["AI–AI"]
+        I3["Human–Human"]
+    end
+
+    INT --> REGS
+📌 Metrics of System-Level Intelligence
+We define four core metrics:
+
+CIQ — Collective Intuition Quotient
+
+IIQ — Interaction Intelligence Quotient
+
+AQ — Adaptation Quotient
+
+GQ — Group Coherence Quotient
+
+Figure 5. Metrics of System-Level Intelligence
+mermaid
+flowchart TB
+
+    subgraph SLI["System-Level Intelligence"]
+        S["System-Level Intelligence"]
+    end
+
+    subgraph METRICS["Metrics of System-Level Cognition"]
+        CIQ["CIQ<br/>(Collective Intuition)"]
+        IIQ["IIQ<br/>(Interaction Quality)"]
+        AQ["AQ<br/>(Adaptation)"]
+        GQ["GQ<br/>(Group Coherence)"]
+    end
+
+    CIQ --> S
+    IIQ --> S
+    AQ --> S
+    GQ --> S
+📌 Bronn Test
+The Bronn Test determines whether a system demonstrates cognition that exceeds the capabilities of any individual agent.
+
+Figure 6. CTOR → Metrics → Bronn Test (Compact)
+mermaid
+flowchart TB
+
+    CTOR["CTOR Environment"] --> DATA["Game Data"]
+    DATA --> METRICS["Metrics Layer"]
+    METRICS --> SCORE["System-Level Score"]
+    SCORE --> BRONN["Bronn Test<br/>Pass / Fail"]
+📌 Full Pipeline
+Figure 7. Extended Pipeline
+mermaid
+flowchart TB
+
+    CTOR["CTOR Environment"] --> TRAJ["Game Trajectories"]
+    TRAJ --> ANALYSIS["Data Extraction & Analysis"]
+    ANALYSIS --> METRICS["CIQ • IIQ • AQ • GQ"]
+    METRICS --> SCORE["System-Level Intelligence Score"]
+    SCORE --> BRONN["Bronn Test"]
+🌐 Project Website
+Visit the official project website:
+
+👉 https://www.ctorgame.com
+
+🤝 How to Contribute
+CTOR‑Labs welcomes contributors from different backgrounds.
+There are three ways to support the project:
+
+⭐ 1. Ambassador — Spread the Word
+Help the project grow by:
+
+sharing CTOR‑Labs materials on social media
+
+writing posts about the research
+
+inviting others to follow the project
+
+Status: Ambassador
+
+⭐ 2. Team Member — Contribute to Development
+Join the project as a contributor in one of the key roles:
+
+CTO — technical leadership, architecture, engineering
+
+CMO — communication, outreach, community
+
+Domain Lead — AI, game design, research, analytics
+
+Status: Team Member
+
+⭐ 3. Investor — Support the Project Financially
+You can support CTOR‑Labs through Patreon.
+
+Status: Investor
+
+💼 How to Buy Company Shares (Venture)
+If you are interested in venture‑level participation and purchasing company shares,
+please contact via LinkedIn:
+
+👉 https://www.linkedin.com/in/vladimir-bronnikov-51b1212/
+
+Status: Venture
