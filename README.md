@@ -114,7 +114,9 @@ Spread the word, share materials, invite others.
 CTO, CMO, Domain Leads.
 
 ## ⭐ Sponsor  
-stay tuned
+Support CTOR‑Labs
+If you want to support the development of CTOR‑Labs, you can make a one‑time contribution via PayPal:
+👉 https://paypal.me/CTORLabs
 
 ---
 
