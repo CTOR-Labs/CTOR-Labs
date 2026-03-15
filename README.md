@@ -93,7 +93,7 @@ Human‑vs‑Human matches inside CTOR, used as a baseline for comparing human s
 
 ### 🧑‍🤖 CTOR‑H-AI  
 Hybrid Human‑vs‑AI matches — the core experimental track for studying hybrid cognition, collective intuition, and emergent cooperation.  
-👉 https://github.com/CTOR-Labs/CTOR-H2AI
+👉 https://github.com/CTOR-Labs/CTOR-H-AI
 
 ### 🧩 CTOR‑TEAM‑TEAM  
 Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence, distributed roles, and system‑level identity.  
