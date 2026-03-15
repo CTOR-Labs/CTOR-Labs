@@ -113,12 +113,12 @@ Spread the word, share materials, invite others.
 ## ⭐ Team Member  
 CTO, CMO, Domain Leads.
 
-## ⭐ Investor  
-Support via Patreon.
+## ⭐ Sponsor  
+stay tuned
 
 ---
 
-# 💼 Venture Participation
+# 💼 Venture Participation/Investor
 
 For venture‑level participation and company shares:  
 https://www.linkedin.com/in/vladimir-bronnikov-51b1212/
