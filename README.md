@@ -87,11 +87,11 @@ CTOR‑Labs maintains several structured research branches, each representing a 
 AI‑vs‑AI matches for studying emergent strategies, distributed attention, and system‑level cognition arising purely from artificial agents.  
 👉 https://github.com/CTOR-Labs/CTOR-AI-AI
 
-### 🧑‍🤝‍🧑 CTOR‑H2H  
+### 🧑‍🤝‍🧑 CTOR‑H-H  
 Human‑vs‑Human matches inside CTOR, used as a baseline for comparing human strategic behavior, coordination, and intuition.  
 👉 https://github.com/CTOR-Labs/CTOR-H2H
 
-### 🧑‍🤖 CTOR‑H2AI  
+### 🧑‍🤖 CTOR‑H-AI  
 Hybrid Human‑vs‑AI matches — the core experimental track for studying hybrid cognition, collective intuition, and emergent cooperation.  
 👉 https://github.com/CTOR-Labs/CTOR-H2AI
 
