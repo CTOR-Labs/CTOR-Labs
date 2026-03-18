@@ -80,7 +80,6 @@ flowchart LR
 
 ---
 ## CTOR-Labs Repository Structure
-## CTOR-Labs Repository Structure
 
 The CTOR ecosystem is organized into several specialized repositories, each responsible for a distinct aspect of gameplay, research, AI development, and collective intelligence studies.  
 This document provides a clear overview of the entire structure.
