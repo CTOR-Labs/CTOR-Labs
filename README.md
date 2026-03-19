@@ -79,79 +79,9 @@ flowchart LR
 ```
 
 ---
-## CTOR-Labs Repository Structure
-
-The CTOR ecosystem is organized into several specialized repositories, each responsible for a distinct aspect of gameplay, research, AI development, and collective intelligence studies.  
-This document provides a clear overview of the entire structure.
-
----
-
-### 1. CTOR-Labs
-**Type:** Meta‑repository  
-**Role:**  
-- Central documentation hub  
-- Architecture and ecosystem overview  
-- Roadmaps and research directions  
-- Links to all CTOR projects  
-- Scientific materials and publications  
-- Official identity and branding for CTOR‑Labs  
-
----
-
-### 2. CTOR-H-AI
-**Type:** Human vs AI Platform  
-**Role:**  
-- Main environment where humans play against computer agents  
-- Testing ground for engine algorithms and adaptive strategies  
-- Human‑in‑the‑loop evaluation of AI behavior  
-- Goal: develop the strongest CTOR engine for human play  
-
----
-
-### 3. CTOR-AI-AI
-**Type:** AI vs AI Competition Platform  
-**Role:**  
-- Educational and research platform where students develop their own AI bots  
-- Bots compete against each other under standardized rules  
-- Designed for tournaments, benchmarking, and strategy comparison  
-- Contains two independent branches:  
-  - **JS branch** — existing implementation  
-  - **Python branch** — new version for Python‑based agents  
-
----
-
-### 4. CTOR-H-H
-**Type:** Human vs Human Online Platform  
-**Role:**  
-- CTOR equivalent of chess.com  
-- Real‑time online gameplay between human players  
-- Rating system, matchmaking, and game history  
-- Canonical ruleset and official move validator  
-
----
-
-### 5. CTOR-TEAM-TEAM
-**Type:** Team vs Team Platform (Collective Intelligence)  
-**Role:**  
-- Supports three types of teams:  
-  - **H** — human teams  
-  - **AI** — teams of AI bots  
-  - **H+AI** — mixed human‑AI teams  
-- Accepts AI bots developed in other CTOR repositories  
-- Research environment for collective intuition, coordination, and group strategy  
-- Focus on communication models, role assignment, and team decision‑making  
-
----
-
-### 6. CTOR-Engine  
-*(formerly **CORE**, renamed)*  
-**Type:** Python Engine  
-**Role:**  
-- Core CTOR engine implemented in Python  
-- BR‑loop, world simulation, and rule enforcement  
-- Baseline agents and reference implementations  
-- API layer for integration with other CTOR platforms  
-- Foundation for Kaggle Game Arena and all AI‑related development  
+## Repository Structure
+The full structure of the CTOR ecosystem is documented here:  
+[docs/RepositoryStructure.md](docs/RepositoryStructure.md)
 
 ## 📌 Projects at a Glance
 
