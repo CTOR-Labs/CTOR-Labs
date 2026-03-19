@@ -4,6 +4,8 @@
 CTOR‑Labs is a research laboratory dedicated to studying **system-level intelligence** emerging in hybrid environments where humans and AI agents interact.  
 We develop a new paradigm — **CAI Systems (Collective Artificial Intelligence Systems)** — and build experimental tools to validate it.
 
+The tool for studying a new type of AI system is a new abstract game with open rules - CTOR. The game was invented in 1986 and is the most complex abstract game of the Go type.
+https://ctorgame.com/
 ---
 
 ## 📌 Mission
@@ -77,8 +79,6 @@ flowchart LR
 
     BIO --- HYB
 ```
-
----
 ## Repository Structure
 The full structure of the CTOR ecosystem is documented here:  
 [docs/RepositoryStructure.md](docs/RepositoryStructure.md)
@@ -107,15 +107,17 @@ Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coh
 
 https://www.ctorgame.com
 
----
-
 # 🤝 How to Contribute
 
 ## ⭐ Ambassador  
 Spread the word, share materials, invite others.
 
+---
+
 ## ⭐ Team Member  
-CTO, CMO, Domain Leads.
+Performing functions: CTO, CMO, Domain Leads. by development areas (repository management)
+
+---
 
 ## ⭐ Sponsor  
 Support CTOR‑Labs
@@ -126,10 +128,5 @@ If you want to support the development of CTOR‑Labs, you can make a one‑time
 
 # 💼 Venture Participation/Investor
 
-For venture‑level participation and company shares:  
+For venture‑level participation and company shares contact us:  
 https://www.linkedin.com/in/vladimir-bronnikov-51b1212/
-
-
-
-
-
