@@ -4,8 +4,9 @@
 CTOR‑Labs is a research laboratory dedicated to studying **system-level intelligence** emerging in hybrid environments where humans and AI agents interact.  
 We develop a new paradigm — **CAI Systems (Collective Artificial Intelligence Systems)** — and build experimental tools to validate it.
 
-The tool for studying a new type of AI system is a new abstract game with open rules - CTOR. The game was invented in 1986 and is the most complex abstract game of the Go type.
-https://ctorgame.com/
+The tool for studying a new type of AI system is a new abstract game with open rules - CTOR. 
+
+The game was invented in 1986 and is the most complex abstract game of the Go type. https://ctorgame.com/
 ---
 
 ## 📌 Mission
