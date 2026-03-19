@@ -82,7 +82,7 @@ flowchart LR
 ```
 ## Repository Structure
 The full structure of the CTOR ecosystem is documented here:  
-[docs/RepositoryStructure.md](docs/RepositoryStructure.md)
+[CTOR-Labs/docs/RepositoryStructure.md](CTOR-Labs/docs/RepositoryStructure.md)
 
 ## 📌 Projects at a Glance
 
