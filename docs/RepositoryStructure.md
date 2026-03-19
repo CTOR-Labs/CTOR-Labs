@@ -13,7 +13,8 @@ It is intended for contributors, researchers, students, and platform integrators
    - 3. CTOR-AI-AI  
    - 4. CTOR-H-H  
    - 5. CTOR-TEAM-TEAM  
-   - 6. CTOR-Engine  
+   - 6. CTOR-Engine
+   - 7. CTOR-UI
 3. Inter‑Repository Relationships  
 4. Future Extensions
 
