@@ -102,6 +102,13 @@ This structure ensures:
 - Foundation for Kaggle Game Arena and all AI‑related development  
 
 ---
+### 7. CTOR-UI
+**Type:** Web UI (HTML/JS)  
+**Purpose:**  
+- Unified frontend for all CTOR platforms  
+- Visualizes games, matches, teams, and ratings  
+- Connects to CTOR-Engine and platform backends via APIs  
+- Enables human interaction with CTOR in the browser  
 
 ## Inter‑Repository Relationships
 
