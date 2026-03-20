@@ -1,16 +1,3 @@
-Overview  
-The CTOR ecosystem consists of multiple specialized platforms that together support human gameplay, AI research, student competitions, team‑based strategy studies, and engine development.  
-Each repository serves a distinct purpose but integrates with others through shared rules, APIs, and agent interfaces.
-
-This structure ensures:
-
-- clarity for contributors  
-- modular development  
-- clean separation of concerns  
-- scalability for future research and competitions  
-
----
-
 ## Repository List
 
 ### 1. CTOR‑Labs  
@@ -24,35 +11,70 @@ This structure ensures:
 
 ---
 
-## Full CTOR Ecosystem Architecture
+### 2. CTOR‑Engine  
+**Type:** Core engine  
+**Purpose:**  
+- Canonical CTOR ruleset  
+- Move validation  
+- Toroidal topology  
+- Eating mechanics  
+- Deterministic game state transitions  
+This is the single source of truth for all CTOR platforms.
 
-The CTOR ecosystem is organized into several coordinated repositories, each responsible for a specific domain.  
-Together they form a modular, scalable, and interoperable architecture:
+---
 
-```
-CTOR-Labs/
-│
-├── CTOR-Engine
-│     Canonical CTOR game engine (rules, move validation, topology)
-│
-├── CTOR-UI
-│     Official browser UI shared across all CTOR modes
-│
-├── CTOR-H-AI
-│     Human‑vs‑AI platform (heuristics, minimax, MCTS, RL, adaptive difficulty)
-│
-├── CTOR-AI-AI
-│     AI‑vs‑AI tournament platform (protocols, match runner, baselines, analytics)
-│
-├── CTOR-H-H
-│     Human‑vs‑Human platform (competitive sessions, ratings, profiles)
-│
-├── CTOR-Team-Team
-│     Reserved for future team‑based CTOR modes (architectural placeholder)
-│
-└── docs/
-      Specifications, diagrams, research notes, and ecosystem documentation
-```
+### 3. CTOR‑UI  
+**Type:** Official user interface  
+**Purpose:**  
+- Unified browser‑based UI  
+- Visual representation of CTOR gameplay  
+- Shared across H‑H, H‑AI, and analysis tools  
 
-Each repository is independent but interoperable through shared protocols and the canonical CTOR engine.
-._
+---
+
+### 4. CTOR‑H‑AI  
+**Type:** Human‑vs‑AI platform  
+**Purpose:**  
+- Heuristic engines  
+- Minimax / alpha‑beta  
+- Monte‑Carlo Tree Search  
+- Reinforcement learning  
+- Adaptive difficulty  
+Used for gameplay, training, and educational applications.
+
+---
+
+### 5. CTOR‑AI‑AI  
+**Type:** AI‑vs‑AI tournament platform  
+**Purpose:**  
+- Standardized bot protocol  
+- Match runner  
+- Tournament formats  
+- Logging and analytics  
+- Baseline agents for students and researchers  
+Designed for competitions, benchmarking, and academic research.
+
+---
+
+### 6. CTOR‑H‑H  
+**Type:** Human‑vs‑Human platform  
+**Purpose:**  
+- Competitive match sessions  
+- Rating systems  
+- Player profiles  
+- Game history  
+Reference implementation for real‑time or asynchronous play.
+
+---
+
+### 7. CTOR‑TEAM‑TEAM  
+**Type:** Experimental / future expansion  
+**Purpose:**  
+- Reserved for team‑versus‑team CTOR modes  
+- Collective strategy rules  
+- Communication models  
+- Role assignments  
+- Coordinated decision‑making research  
+Currently contains documentation and architectural placeholders.
+
+
