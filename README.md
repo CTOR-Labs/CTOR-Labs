@@ -1,202 +1,180 @@
-# CTOR‑Labs  
-### Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
+CTOR‑Labs
+Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
+CTOR‑Labs is a research laboratory dedicated to studying system‑level intelligence emerging in hybrid environments where humans and AI agents interact.
 
-CTOR‑Labs is a research laboratory dedicated to studying **system-level intelligence** emerging in hybrid environments where humans and AI agents interact.  
-We develop a new paradigm — **CAI Systems (Collective Artificial Intelligence Systems)** — and build experimental tools to validate it.
+We develop a new paradigm — CAI Systems (Collective Artificial Intelligence Systems) — and build experimental tools to validate it.
 
-The tool for studying a new type of AI system is a new abstract game with open rules - CTOR. 
+Our primary experimental platform is CTOR, a deep abstract strategy game invented in 1986 — one of the most complex games of the Go family.
+https://ctorgame.com/
 
-The game was invented in 1986 and is the most complex abstract game of the Go type. https://ctorgame.com/
----
+📌 Mission
+Our mission is to investigate and formalize new forms of intelligence that arise:
 
-## 📌 Mission
+not in individual models,
 
-Our mission is to investigate and formalize **new forms of intelligence** that arise:
+not in individual humans,
 
-- not in individual models,  
-- not in individual humans,  
-- but in **systems** where many agents interact within a shared environment.
+but in systems where many agents interact within a shared environment.
 
 We study:
 
-- emergent cognitive regimes  
-- collective intuition  
-- hybrid forms of reasoning  
-- system-level cognitive identity  
+emergent cognitive regimes
 
----
-## 📌 Who Is CTOR For?
+collective intuition
 
-CTOR is designed as a universal research and educational platform for anyone exploring the future of intelligence beyond individual agents.
+hybrid forms of reasoning
 
-### 🎓 Students of AI & Machine Learning  
-A hands‑on environment to study multi‑agent systems, emergent behavior, and hybrid cognition through real experiments.
+system‑level cognitive identity
 
-### 👩‍🏫 Educators & Professors  
-A ready‑to‑use platform for teaching:  
-- collective intelligence  
-- agent‑based modeling  
-- human–AI collaboration  
-- system‑level cognition
+CTOR serves as a controlled environment for observing these phenomena.
 
-### 🧠 AI Researchers  
-A controlled environment for testing hypotheses about:  
-- emergent strategies  
-- distributed attention  
-- collective intuition  
-- hybrid cognitive regimes
+📌 Who Is CTOR For?
+🎓 Students of AI & Machine Learning
+A hands‑on environment for studying multi‑agent systems, emergent behavior, and hybrid cognition.
 
-### 🧩 Developers & Engineers  
-A modular, extensible system for building:  
-- AI agents  
-- analytics pipelines  
-- multi‑agent architectures  
-- experimental cognitive systems
+👩‍🏫 Educators & Professors
+A ready‑to‑use platform for teaching:
 
-### 🚀 Visionaries & Innovators  
-A glimpse into the next evolutionary step of intelligence —  
-not artificial, not biological, but **collective**.
-## 📌 CAI Systems: A New Evolutionary Branch of Intelligence
+collective intelligence
 
-### **Figure 1. Evolutionary Trajectory of Intelligence**
+agent‑based modeling
 
-```mermaid
-flowchart LR
+human–AI collaboration
 
-    %% force rerender 1
-    subgraph BIO["Biological Evolution"]
-        A1["Physical & Social Environment\n(Nature, Society)"]
-        A2["Human Brain\n(Biological)"]
-        A3["Human Intelligence\n(Intuition, Social Cognition)"]
-        A1 --> A2 --> A3
-    end
+system‑level cognition
 
-    subgraph HYB["Hybrid / Artificial Evolution "]
-        B1["Artificial Shared Environment\n(CTOR-like, Digital, Networked)"]
-        B2["Humans + AI Agents\nin Shared Environment"]
-        B3["CAI Systems\n(System-Level Cognition,\nNew Cognitive Regimes)"]
-        B1 --> B2 --> B3
-    end
+🧠 AI Researchers
+A controlled testbed for hypotheses about:
 
-    BIO --- HYB
-```
-## Repository Structure
-The full structure of the CTOR ecosystem is documented here:  
-[Repository Structure](docs/RepositoryStructure.md)
+emergent strategies
 
+distributed attention
 
+collective intuition
 
-## 📌 Projects at a Glance
+hybrid cognitive regimes
 
+🧩 Developers & Engineers
+A modular system for building:
+
+AI agents
+
+analytics pipelines
+
+multi‑agent architectures
+
+experimental cognitive systems
+
+🚀 Visionaries & Innovators
+A glimpse into the next evolutionary step of intelligence —
+not artificial, not biological, but collective.
+
+📌 CAI Systems: A New Evolutionary Branch of Intelligence
+CAI Systems represent a new class of intelligence emerging from interacting agents — human and artificial — operating within a shared cognitive environment.
+
+CTOR is the first experimental platform designed specifically to study this phenomenon.
+
+📁 Repository Structure
+The full structure of the CTOR ecosystem is documented here:
+docs/RepositoryStructure.md
+
+📌 Projects at a Glance
 CTOR‑Labs maintains several structured research branches, each representing a distinct interaction regime inside the CTOR environment.
 
-### 🤖 CTOR‑AI‑AI  
-AI‑vs‑AI matches for studying emergent strategies, distributed attention, and system‑level cognition arising purely from artificial agents.  
+🤖 CTOR‑AI‑AI
+AI‑vs‑AI matches for studying emergent strategies and system‑level cognition.
 👉 https://github.com/CTOR-Labs/CTOR-AI-AI
 
-### 🧑‍🤝‍🧑 CTOR‑H-H  
-Human‑vs‑Human matches inside CTOR, used as a baseline for comparing human strategic behavior, coordination, and intuition.  
+🧑‍🤝‍🧑 CTOR‑H-H
+Human‑vs‑Human matches used as a baseline for strategic behavior and intuition.
 👉 https://github.com/CTOR-Labs/CTOR-H-H
 
-### 🧑‍🤖 CTOR‑H-AI  
-Hybrid Human‑vs‑AI matches — the core experimental track for studying hybrid cognition, collective intuition, and emergent cooperation.  
+🧑‍🤖 CTOR‑H-AI
+Hybrid Human‑vs‑AI matches — the core track for studying hybrid cognition.
 👉 https://github.com/CTOR-Labs/CTOR-H-AI
 
-### 🧩 CTOR‑TEAM‑TEAM  
-Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence, distributed roles, and system‑level identity.  
+🧩 CTOR‑TEAM‑TEAM
+Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence and distributed roles.
 👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
 
-## 📐 Обновлённая архитектура разработки CTOR
+📐 Updated CTOR Development Architecture
+CTOR has transitioned to a modular architecture, where API, UI, and Engine evolve as independent but coordinated components.
 
-Система CTOR перешла на модульную архитектуру, в которой API, UI и Engine развиваются как независимые, но согласованные компоненты.  
-В рамках этой архитектуры были добавлены новые документы и стандарты, определяющие взаимодействие между модулями.
+New standards and documents define how these modules interact.
 
-### 🔗 Документация API
+🔗 API Documentation
+All API versions are located in:
 
-Все версии API теперь находятся в отдельной директории:
-
-```
+Code
 docs/API/
-```
+Each version is a standalone contract:
 
-Каждая версия оформлена как самостоятельный контракт:
+API-CONTRACT-v0.1.md — basic GameState/Move structures
 
-- `API-CONTRACT-v0.1.md` — базовые структуры GameState/Move  
-- `API-CONTRACT-v0.2.md` — тайминг, ошибки  
-- `API-CONTRACT-v0.3.md` — сетевой протокол (HTTP/WebSocket)  
-- `API-CONTRACT-v0.4.md` — авторизация, роли, токены  
-- `API-CONTRACT-v0.5.md` — Matchmaking, Rooms, Lobbies  
+API-CONTRACT-v0.2.md — timing, errors
 
-Индекс API:
+API-CONTRACT-v0.3.md — network protocol (HTTP/WebSocket)
 
-```
+API-CONTRACT-v0.4.md — authorization, roles, tokens
+
+API-CONTRACT-v0.5.md — matchmaking, rooms, lobbies
+
+API index:
 docs/API/README.md
-```
 
-### 📄 Архитектурные документы
+📄 Architectural Documents
+Additional documents describing system structure:
 
-Дополнительные документы, описывающие структуру разработки:
+docs/RepositoryStructure.md — CTOR‑Labs repository structure
 
-- `docs/RepositoryStructure.md` — структура репозитория CTOR-Labs  
-- `docs/design-doc-v1.md` — архитектурный дизайн CTOR (проектирование v1.0)  
+docs/design-doc-v1.md — CTOR architecture design (v1.0)
 
-Эти документы определяют принципы организации кода, модульность, стандарты API и взаимодействие между компонентами.
+These documents define modularity, API standards, and component interaction.
 
-### 🖥️ CTOR-UI и API
+🖥️ CTOR‑UI and API
+The CTOR‑UI repository now uses API contracts as the single source of truth:
 
-Репозиторий CTOR-UI теперь использует API‑контракты как основной источник истины:
+UI does not define its own GameState/Move structures
 
-- UI не содержит собственных структур GameState/Move  
-- все данные приходят через API v0.x  
-- сетевое взаимодействие полностью соответствует спецификациям из `docs/API/`  
-- UI следует архитектурным принципам из `design-doc-v1.md`
+all data flows through API v0.x
 
-Это обеспечивает совместимость между UI, Engine, AI‑ботами и серверной частью CTOR.
+networking follows API v0.3
 
----
+authorization follows API v0.4
 
-## 🧭 Переход к разработке UI
+lobbies follow API v0.5
 
-После завершения подготовки API и структуры репозитория, следующая фаза — проектирование и реализация CTOR-UI.  
-UI будет использовать:
+UI architecture follows design‑doc‑v1.md
 
-- API v0.3 — WebSocket/HTTP  
-- API v0.4 — авторизация  
-- API v0.5 — лобби и матчмейкинг  
+This ensures compatibility across UI, Engine, AI bots, and server components.
 
-UI‑архитектура будет документироваться в отдельном файле:
+🧭 Next Phase: UI Development
+After completing API and repository structure, the next phase is CTOR‑UI implementation.
 
-```
+UI will use:
+
+API v0.3 — WebSocket/HTTP
+
+API v0.4 — authorization
+
+API v0.5 — matchmaking
+
+UI architecture will be documented in:
+
+Code
 docs/ui-design-v1.md
-```
+(to be created during development)
 
-(будет создан в процессе разработки)
-
-
-# 🌐 Project Website
-
+🌐 Project Website
 https://www.ctorgame.com
 
-# 🤝 How to Contribute
+🤝 How to Contribute
+⭐ Ambassador
+Share CTOR, invite others, spread the mission.
 
-## ⭐ Ambassador  
-Spread the word, share materials, invite others.
+⭐ Team Member
+Join development as CTO, CMO, or domain lead.
 
----
-
-## ⭐ Team Member  
-Performing functions: CTO, CMO, Domain Leads. by development areas (repository management)
-
----
-
-## ⭐ Sponsor  
-Support CTOR‑Labs
-If you want to support the development of CTOR‑Labs, you can make a one‑time contribution via PayPal:
+⭐ Sponsor
+Support CTOR‑Labs development:
 👉 https://paypal.me/CTORLabs
-
----
-
-# 💼 Venture Participation/Investor
-
-For venture‑level participation and company shares contact us:  
-https://www.linkedin.com/in/vladimir-bronnikov-51b1212/
