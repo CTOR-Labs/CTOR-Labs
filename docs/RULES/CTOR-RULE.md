@@ -175,7 +175,8 @@ Any action violating toroidal topology is invalid.
 ### 9.6. Figure 1 — CTOR Toroidal Structure
 
 ![CTOR FIELD NUMBERS](../RULES/field-ctor-industrial-design.png)
-
+          Figure 2 - CTOR color torus (8x8 plus 1+1 extra boarder cells)  
+![CTOR FIELD COLOR](../RULES/CTOR-COLOR_FIELD.png)
 
 ---
 
