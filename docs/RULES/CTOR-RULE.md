@@ -174,7 +174,7 @@ Any action violating toroidal topology is invalid.
 
 ### 9.6. Figure 1 — CTOR Toroidal Structure
 
-![CTOR FIELD NUMBERS](../RULES/Fiel%20CTOR%20inductrial%20Designe.png)
+![CTOR FIELD NUMBERS](../RULES/field-ctor-industrial-design.png)
 
 
 ---
