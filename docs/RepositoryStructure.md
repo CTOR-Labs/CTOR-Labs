@@ -1,104 +1,99 @@
-Repository List — CTOR Ecosystem
 1. CTOR‑Labs
 Type: Meta‑repository
 Purpose:
 
-Центральная документация
+Central documentation hub
 
-Архитектура экосистемы
+Ecosystem architecture and design standards
 
-Правила CTOR
+Official CTOR rules and API specifications
 
-API‑контракты
+Research, roadmaps, and publications
 
-Дорожные карты
-
-Исследования и дизайн‑документы
-
-Ссылки на все проекты CTOR
+Navigation point for all CTOR projects
 
 2. CTOR‑Engine
 Type: Core Engine
 Purpose:
 
-Канонические правила
+Canonical CTOR ruleset
 
-Валидация ходов
+Move validation
 
-Торроидальная топология
+Toroidal topology
 
-Eating‑механика
+Eating mechanics
 
-Детерминированные переходы состояния
+Deterministic state transitions
 
-Единый источник истины для всех платформ
+Single source of truth for all CTOR platforms
 
 3. CTOR‑UI
-Type: Official UI
+Type: Official User Interface
 Purpose:
 
-Унифицированный браузерный интерфейс
+Unified browser‑based UI
 
-Визуализация игрового поля
+Visual representation of CTOR gameplay
 
-Поддержка H‑H, H‑AI, AI‑AI
-
-Базовый слой для MVP
+Shared across H‑H, H‑AI, and AI‑AI modes
 
 4. CTOR‑H‑AI
 Type: Human‑vs‑AI Platform
 Purpose:
 
-Эвристические движки
+Heuristic engines
 
 Minimax / Alpha‑Beta
 
-MCTS
+Monte‑Carlo Tree Search
 
-RL‑агенты
+Reinforcement learning
 
-Адаптивная сложность
+Adaptive difficulty
 
-Обучающие и игровые приложения
+Training and educational tools
 
 5. CTOR‑AI‑AI
 Type: AI‑vs‑AI Tournament Platform
 Purpose:
 
-Протокол ботов
+Standardized bot protocol
 
 Match runner
 
-Турнирные форматы
+Tournament formats
 
-Логи и аналитика
+Logging and analytics
 
-Базовые агенты для исследований
+Baseline agents for research and competitions
 
 6. CTOR‑H‑H
 Type: Human‑vs‑Human Platform
 Purpose:
 
-Соревновательные матчи
+Competitive match sessions
 
-Рейтинги
+Rating systems
 
-Профили игроков
+Player profiles
 
-История игр
+Game history
 
-Поддержка real‑time и async‑режимов
+Real‑time and asynchronous play
 
 7. CTOR‑TEAM‑TEAM
-Type: Experimental
+Type: Experimental / Future Expansion
 Purpose:
 
-Командные режимы
+Team‑based CTOR modes
 
-Коллективные стратегии
+Collective strategy models
 
-Ролевые модели
+Communication protocols
 
-Исследования группового принятия решений
+Role assignments
+
+Research on coordinated decision‑making
 
 
