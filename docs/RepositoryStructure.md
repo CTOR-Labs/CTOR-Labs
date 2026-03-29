@@ -1,80 +1,104 @@
-## Repository List
+Repository List — CTOR Ecosystem
+1. CTOR‑Labs
+Type: Meta‑repository
+Purpose:
 
-### 1. CTOR‑Labs  
-**Type:** Meta‑repository  
-**Purpose:**  
-- Central documentation hub  
-- Ecosystem architecture and design principles  
-- Roadmaps, research directions, and publications  
-- Links to all CTOR projects  
-- Official identity and branding for CTOR‑Labs  
+Центральная документация
 
----
+Архитектура экосистемы
 
-### 2. CTOR‑Engine  
-**Type:** Core engine  
-**Purpose:**  
-- Canonical CTOR ruleset  
-- Move validation  
-- Toroidal topology  
-- Eating mechanics  
-- Deterministic game state transitions  
-This is the single source of truth for all CTOR platforms.
+Правила CTOR
 
----
+API‑контракты
 
-### 3. CTOR‑UI  
-**Type:** Official user interface  
-**Purpose:**  
-- Unified browser‑based UI  
-- Visual representation of CTOR gameplay  
-- Shared across H‑H, H‑AI, and analysis tools  
+Дорожные карты
 
----
+Исследования и дизайн‑документы
 
-### 4. CTOR‑H‑AI  
-**Type:** Human‑vs‑AI platform  
-**Purpose:**  
-- Heuristic engines  
-- Minimax / alpha‑beta  
-- Monte‑Carlo Tree Search  
-- Reinforcement learning  
-- Adaptive difficulty  
-Used for gameplay, training, and educational applications.
+Ссылки на все проекты CTOR
 
----
+2. CTOR‑Engine
+Type: Core Engine
+Purpose:
 
-### 5. CTOR‑AI‑AI  
-**Type:** AI‑vs‑AI tournament platform  
-**Purpose:**  
-- Standardized bot protocol  
-- Match runner  
-- Tournament formats  
-- Logging and analytics  
-- Baseline agents for students and researchers  
-Designed for competitions, benchmarking, and academic research.
+Канонические правила
 
----
+Валидация ходов
 
-### 6. CTOR‑H‑H  
-**Type:** Human‑vs‑Human platform  
-**Purpose:**  
-- Competitive match sessions  
-- Rating systems  
-- Player profiles  
-- Game history  
-Reference implementation for real‑time or asynchronous play.
+Торроидальная топология
 
----
+Eating‑механика
 
-### 7. CTOR‑TEAM‑TEAM  
-**Type:** Experimental / future expansion  
-**Purpose:**  
-- Reserved for team‑versus‑team CTOR modes  
-- Collective strategy rules  
-- Communication models  
-- Role assignments  
-- Coordinated decision‑making research  
-Currently contains documentation and architectural placeholders.
+Детерминированные переходы состояния
+
+Единый источник истины для всех платформ
+
+3. CTOR‑UI
+Type: Official UI
+Purpose:
+
+Унифицированный браузерный интерфейс
+
+Визуализация игрового поля
+
+Поддержка H‑H, H‑AI, AI‑AI
+
+Базовый слой для MVP
+
+4. CTOR‑H‑AI
+Type: Human‑vs‑AI Platform
+Purpose:
+
+Эвристические движки
+
+Minimax / Alpha‑Beta
+
+MCTS
+
+RL‑агенты
+
+Адаптивная сложность
+
+Обучающие и игровые приложения
+
+5. CTOR‑AI‑AI
+Type: AI‑vs‑AI Tournament Platform
+Purpose:
+
+Протокол ботов
+
+Match runner
+
+Турнирные форматы
+
+Логи и аналитика
+
+Базовые агенты для исследований
+
+6. CTOR‑H‑H
+Type: Human‑vs‑Human Platform
+Purpose:
+
+Соревновательные матчи
+
+Рейтинги
+
+Профили игроков
+
+История игр
+
+Поддержка real‑time и async‑режимов
+
+7. CTOR‑TEAM‑TEAM
+Type: Experimental
+Purpose:
+
+Командные режимы
+
+Коллективные стратегии
+
+Ролевые модели
+
+Исследования группового принятия решений
 
 
