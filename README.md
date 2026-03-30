@@ -66,9 +66,6 @@ The full structure of the CTOR ecosystem is documented here:
 docs/RepositoryStructure.md
 
 Current Prototypes (as of March 27)
-Two working MVP versions have been implemented:
-MVP / Replit:  
-https://ctor-game-mvp--vlad287.replit.app/
 MVP / Claude:  
 https://luminous-marzipan-e6de40.netlify.app/
 Both prototypes allow an AI bot to play against a human.
