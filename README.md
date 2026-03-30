@@ -1,34 +1,20 @@
 CTOR‑Labs
-Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems
-CTOR‑Labs is a research laboratory dedicated to studying system‑level intelligence emerging in hybrid environments where humans and AI agents interact.
+Research Laboratory for Collective Intelligence, Hybrid Cognition, and CAI Systems.
 
-We develop a new paradigm — CAI Systems (Collective Artificial Intelligence Systems) — and build experimental tools to validate it.
+CTOR is a next‑generation abstract strategy game built on a toroidal board. It is intentionally more complex than Go and designed to explore deep strategic reasoning, multi‑agent collaboration, and collective artificial intelligence. 
 
-Our primary experimental platform is CTOR, a deep abstract strategy game invented in 1986 — one of the most complex games of the Go family.
+Rules and gameplay overview  
+(Languages: English, German, Spanish, Chinese, Russian, French)
+https://www.youtube.com/watch?v=5wl9Fhs6gRU
+
+Official game site:  
 https://ctorgame.com/
 
 📌 Mission
-Our mission is to investigate and formalize new forms of intelligence that arise:
-
-not in individual models,
-
-not in individual humans,
-
-but in systems where many agents interact within a shared environment.
-
-We study:
-
-emergent cognitive regimes
-
-collective intuition
-
-hybrid forms of reasoning
-
-system‑level cognitive identity
-
-CTOR serves as a controlled environment for observing these phenomena.
+Our mission is to build a modular, flexible game engine that can serve as a testbed for AI systems and human‑AI co‑play.
 
 📌 Who Is CTOR For?
+
 🎓 Students of AI & Machine Learning
 A hands‑on environment for studying multi‑agent systems, emergent behavior, and hybrid cognition.
 
@@ -72,11 +58,31 @@ not artificial, not biological, but collective.
 📌 CAI Systems: A New Evolutionary Branch of Intelligence
 CAI Systems represent a new class of intelligence emerging from interacting agents — human and artificial — operating within a shared cognitive environment.
 
+
 CTOR is the first experimental platform designed specifically to study this phenomenon.
 
 📁 Repository Structure
 The full structure of the CTOR ecosystem is documented here:
 docs/RepositoryStructure.md
+
+Current Prototypes (as of March 27)
+Two working MVP versions have been implemented:
+MVP / Replit:  
+https://ctor-game-mvp--vlad287.replit.app/
+MVP / Claude:  
+https://luminous-marzipan-e6de40.netlify.app/
+Both prototypes allow an AI bot to play against a human.
+
+Plan for the 2026.
+1. Modular architecture for the Claude prototype
+Refactoring into a clean, extensible structure:
+engine.js
+main.js
+index.html
+style.css
+2. Design and UX improvements.
+Improve visual layout and interaction flow Unify UI elements across prototypes. Select the primary working prototype for the next development stage.
+
 
 📌 Projects at a Glance
 CTOR‑Labs maintains several structured research branches, each representing a distinct interaction regime inside the CTOR environment.
@@ -97,32 +103,9 @@ Hybrid Human‑vs‑AI matches — the core track for studying hybrid cognition.
 Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence and distributed roles.
 👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
 
-📐 Updated CTOR Development Architecture
-CTOR has transitioned to a modular architecture, where API, UI, and Engine evolve as independent but coordinated components.
-
 New standards and documents define how these modules interact.
 
-🔗 API Documentation
-All API versions are located in:
-
-Code
-docs/API/
-Each version is a standalone contract:
-
-API-CONTRACT-v0.1.md — basic GameState/Move structures
-
-API-CONTRACT-v0.2.md — timing, errors
-
-API-CONTRACT-v0.3.md — network protocol (HTTP/WebSocket)
-
-API-CONTRACT-v0.4.md — authorization, roles, tokens
-
-API-CONTRACT-v0.5.md — matchmaking, rooms, lobbies
-
-API index:
-docs/API/README.md
-
-📄 Architectural Documents
+Architectural Documents
 Additional documents describing system structure:
 
 docs/RepositoryStructure.md — CTOR‑Labs repository structure
@@ -130,43 +113,6 @@ docs/RepositoryStructure.md — CTOR‑Labs repository structure
 docs/design-doc-v1.md — CTOR architecture design (v1.0)
 
 These documents define modularity, API standards, and component interaction.
-
-🖥️ CTOR‑UI and API
-The CTOR‑UI repository now uses API contracts as the single source of truth:
-
-UI does not define its own GameState/Move structures
-
-all data flows through API v0.x
-
-networking follows API v0.3
-
-authorization follows API v0.4
-
-lobbies follow API v0.5
-
-UI architecture follows design‑doc‑v1.md
-
-This ensures compatibility across UI, Engine, AI bots, and server components.
-
-🧭 Next Phase: UI Development
-After completing API and repository structure, the next phase is CTOR‑UI implementation.
-
-UI will use:
-
-API v0.3 — WebSocket/HTTP
-
-API v0.4 — authorization
-
-API v0.5 — matchmaking
-
-UI architecture will be documented in:
-
-Code
-docs/ui-design-v1.md
-(to be created during development)
-
-🌐 Project Website
-https://www.ctorgame.com
 
 🤝 How to Contribute
 ⭐ Ambassador
