@@ -5,6 +5,7 @@ CTOR is a next‑generation abstract strategy game built on a toroidal board. It
 
 Rules and gameplay overview  
 (Languages: English, German, Spanish, Chinese, Russian, French)
+
 https://www.youtube.com/watch?v=5wl9Fhs6gRU
 
 Official game site:  
