@@ -62,10 +62,6 @@ CAI Systems represent a new class of intelligence emerging from interacting agen
 
 CTOR is the first experimental platform designed specifically to study this phenomenon.
 
-📁 Repository Structure
-The full structure of the CTOR ecosystem is documented here:
-docs/RepositoryStructure.md
-
 Current Prototypes (as of March 27)
 MVP / Claude:  
 https://luminous-marzipan-e6de40.netlify.app/
@@ -102,17 +98,6 @@ Hybrid Human‑vs‑AI matches — the core track for studying hybrid cognition.
 Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence and distributed roles.
 
 👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
-
-New standards and documents define how these modules interact.
-
-Architectural Documents
-Additional documents describing system structure:
-
-docs/RepositoryStructure.md — CTOR‑Labs repository structure
-
-docs/design-doc-v1.md — CTOR architecture design (v1.0)
-
-These documents define modularity, API standards, and component interaction.
 
 🤝 How to Contribute
 ⭐ Ambassador
