@@ -95,9 +95,7 @@ Hybrid Human‑vs‑AI matches — the core track for studying hybrid cognition.
 👉 https://github.com/CTOR-Labs/CTOR-H-AI
 
 🧩 CTOR‑TEAM‑TEAM
-Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence and distributed roles.
-
-👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
+Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence and distributed roles.👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
 
 🤝 How to Contribute
 ⭐ Ambassador
