@@ -99,12 +99,18 @@ Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coh
 
 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
 
-🤝 How to Contribute
+
+🤝 How to Contribute 
+
 ⭐ Ambassador
 Share CTOR, invite others, spread the mission.
+Subscribe to our newsletter 
+https://ctorgame.com/subscribe
 
 ⭐ Team Member
 Join development as CTO, CMO, or domain lead.
+Contact us (form at the bottom of the page)
+https://ctorgame.com/home
 
 ⭐ Sponsor
 Support CTOR‑Labs development:
