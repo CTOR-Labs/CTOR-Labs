@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CTOR-Labs/CTOR-Labs/main/CTOR%20LOGO%20APP%20horisont%201%20(2).png" 
-       alt="CTOR Logo" width="260">
-</p>
+<img src="https://raw.githubusercontent.com/CTOR-Labs/CTOR-Labs/main/CTOR%20LOGO%20APP%20horisont%201%20(2).png" 
+     alt="CTOR Logo" width="260" align="right">
 # CTOR‑Labs  
 ### Central Architectural Repository of the CTOR Ecosystem
 
