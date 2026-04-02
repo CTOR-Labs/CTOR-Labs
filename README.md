@@ -25,6 +25,9 @@ It is intentionally more complex than Go and designed to explore deep strategic 
 (Available in English, German, Spanish, Chinese, Russian, French)  
 https://www.youtube.com/watch?v=5wl9Fhs6gRU
 
+### 🔗 Official CTOR Rules (Full Document)  
+https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/RULES/CTOR-RULE.md
+
 **Official game site:**  
 https://ctorgame.com/
 
