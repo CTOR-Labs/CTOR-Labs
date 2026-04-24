@@ -63,4 +63,8 @@ P.S. 2
 You can find more information about the game on the website.
 https://ctorgame.com/
 
+P.S. 3
+You can find more information about the development stage on GitHub.
+https://github.com/CTOR-Labs/
+
 #AI #DeepMind #Go #CTOR #Abstract #Game #Intelligence #RL #Kaggle #NeurIPS #AAAI #IJCAI #Collective #Brain 
