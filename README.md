@@ -34,6 +34,9 @@ https://ctorgame.com/
 **oficial LinkedIn page**
 https://www.linkedin.com/company/ctorgame/
 
+**CTOR — A New Strategic Game for Training AI Instead of Go**
+https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/science/papers/ctor-new-go-for-ai.md
+
 ---
 
 # 📌 Mission
