@@ -1,4 +1,4 @@
-**CTOR — A New Strategic Game for Training AI Instead of Go**
+# **CTOR — A New Strategic Game for Training AI Instead of Go**
 
 <img width="666" height="384" alt="Jung" src="https://github.com/user-attachments/assets/c345116d-5a29-44dd-8eec-61e441c87b6d" />
 
