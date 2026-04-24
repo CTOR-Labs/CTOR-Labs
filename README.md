@@ -31,6 +31,9 @@ https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/RULES/CTOR-RULE.md
 **Official game site:**  
 https://ctorgame.com/
 
+**oficial LinkedIn page**
+https://www.linkedin.com/company/ctorgame/
+
 ---
 
 # 📌 Mission
