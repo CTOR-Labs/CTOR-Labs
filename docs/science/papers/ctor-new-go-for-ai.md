@@ -1,3 +1,6 @@
+CTOR — A New Strategic Game for Training AI Instead of Go
+<img width="666" height="384" alt="Jung" src="https://github.com/user-attachments/assets/c345116d-5a29-44dd-8eec-61e441c87b6d" />
+
 Hi everyone. Sorry for posting mostly about the game lately, but I’m getting deeper into developing the AI engine for my game CTOR — and it has become one of the most exciting projects of my life.
 
 In 2017, Google DeepMind completed AlphaGo — the first program to confidently defeat the World Champion in Go. Google invested hundreds of millions of dollars into AlphaGo, AlphaGo Zero, and AlphaZero through research, infrastructure, and massive compute. What comes next?
