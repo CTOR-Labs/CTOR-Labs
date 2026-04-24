@@ -22,16 +22,20 @@ CTOR is a next‑generation abstract strategy game built on a toroidal board.
 It is intentionally more complex than Go and designed to explore deep strategic reasoning, multi‑agent collaboration, and collective artificial intelligence.
 
 ## 🎮 Rules and Gameplay Overview  
+
 (Available in English, German, Spanish, Chinese, Russian, French)  
 https://www.youtube.com/watch?v=5wl9Fhs6gRU
 
 ### 🔗 Official CTOR Rules (Full Document)  
+
 https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/RULES/CTOR-RULE.md
 
-**Official game site:**  
+**Official game site:** 
+
 https://ctorgame.com/
 
 **oficial LinkedIn page**
+
 https://www.linkedin.com/company/ctorgame/
 
 **CTOR — A New Strategic Game for Training AI Instead of Go**
