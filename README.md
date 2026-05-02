@@ -4,9 +4,7 @@
 ### Central Architectural Repository of the CTOR Ecosystem
 
 This repository serves as the core architectural hub of CTOR‑Labs.  
-CTOR‑Labs does not contain gameplay code.  
-Instead, it provides the conceptual and architectural foundation upon which all CTOR modules and experimental systems are built.
-
+CTOR‑Labs does not contain gameplay code. Instead, it provides the conceptual and architectural foundation upon which all CTOR modules and experimental systems are built.
 ---
 # 📌 Mission
 
