@@ -4,15 +4,15 @@
 ### Central Architectural Repository of the CTOR Ecosystem
 
 This repository serves as the core architectural hub of CTOR‑Labs.  
-It contains the foundational documents that define:
-
-- the formal rules of the CTOR game  
-- the high‑level system architecture  
-- the structural principles guiding all CTOR research branches  
-
 CTOR‑Labs does not contain gameplay code.  
 Instead, it provides the conceptual and architectural foundation upon which all CTOR modules and experimental systems are built.
 
+---
+# 📌 Mission
+
+Our mission is to build a modular, flexible game engine that can serve as a testbed for AI systems, human–AI co‑play, and collective intelligence research.
+
+As part of the global mission, one way to advance this area of ​​AI could be through the creation of commercial products based on the game. The potential audience for such products is comparable to that of chess and Go players (hundreds of millions). Casual versions (designed to develop and train one's thinking quickly) could also have larger circulations.
 ---
 
 # CTOR‑Labs  
@@ -41,12 +41,6 @@ https://www.linkedin.com/company/ctorgame/
 **CTOR — A New Strategic Game for Training AI Instead of Go**
 
 https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/science/papers/ctor-new-go-for-ai.md
-
----
-
-# 📌 Mission
-
-Our mission is to build a modular, flexible game engine that can serve as a testbed for AI systems, human–AI co‑play, and collective intelligence research.
 
 ---
 
