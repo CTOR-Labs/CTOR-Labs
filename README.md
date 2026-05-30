@@ -20,7 +20,7 @@ There are many potential avenues for evolving the gameplay:
 Tournaments involving humans and bots, casual games, and team-based matches (1000 vs. 1000 players on large screens).
 Modeling AI mechanics featuring the collective behavior of AI agents, as well as university-level courses on AI.
 
-# 📌 A New Evolutionary Branch of Intelligence
+# 📌 A New Evolutionary Branch of Artificial Intelligence
 
 CAI (Collective Artificial Intelligence) represents a new class of intelligence emerging from interacting agents — human and artificial — operating within a shared cognitive environment.
 
