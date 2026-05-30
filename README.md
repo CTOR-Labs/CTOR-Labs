@@ -24,7 +24,7 @@ Modeling AI mechanics featuring the collective behavior of AI agents, as well as
 
 CAI (Collective Artificial Intelligence) represents a new class of intelligence emerging from interacting agents — human and artificial — operating within a shared cognitive environment.
 
-CTOR is the first experimental platform designed specifically to study this phenomenon.
+CTOR Labs. is the first experimental platform designed specifically to study this phenomenon.
 
 ---
 ## 🎮 Rules and Gameplay Overview  
