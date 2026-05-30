@@ -134,12 +134,16 @@ Support CTOR‑Labs development:
 ### ⭐ TEsimonial  
 P.S. Here is a list of people I’m in contact with (Testimonials):
 
-UofT (University of Toronto) — where Geoffrey Hinton works.
+UofT (University of Toronto) — Gaming Club, Department of Computer Science.
 
 Stephen Wolfram (Wolfram Research) — I utilize his theory of Cellular Automata.
+https://en.wikipedia.org/wiki/Stephen_Wolfram
 
 Alexey Pajitnov (Tetris) — he provides me with advice regarding game mechanics.
 This is a former student of mine—a brilliant scientist:
+
+Ilya Rybak - (Drexel University, USA) Network Consultant
+https://drexel.edu/medicine/faculty/profiles/ilya-rybak/
 
 Andrew Adamatzki (Western University, UK)
 https://en.wikipedia.org/wiki/Andrew_Adamatzki
