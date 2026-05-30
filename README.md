@@ -113,8 +113,8 @@ Stack: Copilot – Lovable – GitHub – VS Code – Vercel
 
 Platform for Comparing AI Bots and Playing Against Them (bots are integrated directly into the codebase)
 Stack: Copilot – Lovable – GitHub – VS Code – Vercel
-👉 CTOR-Labs/R-D_Project-AI-Level
-
+👉 [CTOR-Labs/R-D_Project-AI-Level
+](https://github.com/CTOR-Labs/ctor-ai)
 ---
 
 # 🤝 How to Contribute
@@ -131,7 +131,7 @@ Contact: https://ctorgame.com/home
 Support CTOR‑Labs development:  
 👉 https://paypal.me/CTORLabs
 
-### ⭐ TEsimonial  
+### ⭐ Testimonial  
 P.S. Here is a list of people I’m in contact with (Testimonials):
 
 UofT (University of Toronto) — Gaming Club, Department of Computer Science.
