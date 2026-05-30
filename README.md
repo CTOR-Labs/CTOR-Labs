@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/CTOR-Labs/CTOR-Labs/main/CTOR%20LOGO%20APP%20horisont%201%20(2).png" 
      alt="CTOR Logo" width="260" align="right">
 # CTOR‑Labs  
-### Central Architectural Repository of the CTOR Ecosystem
-
-CTOR‑Labs does not contain gameplay code. Instead, it provides the conceptual and architectural foundation upon which all CTOR modules and experimental systems are built.
+### CTOR-Labs serves as the central gateway to the working repositories of the CTOR game ecosystem and its applications across various fields of activity.
 ---
 # 📌 Mission
 
