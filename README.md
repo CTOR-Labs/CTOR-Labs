@@ -105,11 +105,11 @@ Hybrid Human‑vs‑AI matches — the core track for studying hybrid cognition.
 Team‑vs‑Team configurations (2v2, 3v3, hybrid teams) for exploring group coherence and distributed roles.  
 👉 https://github.com/CTOR-Labs/CTOR-TEAM-TEAM
 
-### 🧩 Current Developments
+### 🧩 Ready for use
 
 AI Bot Development (refining game mechanics and design using simple heuristic AI bots)
 Stack: Copilot – Lovable – GitHub – VS Code – Vercel
-👉 CTOR-Labs/VCStudio 
+👉 [CTOR-Labs/VCStudio ](https://github.com/CTOR-Labs/VCStudio)
 
 Platform for Comparing AI Bots and Playing Against Them (bots are integrated directly into the codebase)
 Stack: Copilot – Lovable – GitHub – VS Code – Vercel
