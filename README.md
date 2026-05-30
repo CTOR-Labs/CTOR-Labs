@@ -113,8 +113,8 @@ Stack: Copilot – Lovable – GitHub – VS Code – Vercel
 
 Platform for Comparing AI Bots and Playing Against Them (bots are integrated directly into the codebase)
 Stack: Copilot – Lovable – GitHub – VS Code – Vercel
-👉 [CTOR-Labs/R-D_Project-AI-Level
-](https://github.com/CTOR-Labs/ctor-ai)
+👉(https://github.com/CTOR-Labs/ctor-ai)
+
 ---
 
 # 🤝 How to Contribute
@@ -131,8 +131,8 @@ Contact: https://ctorgame.com/home
 Support CTOR‑Labs development:  
 👉 https://paypal.me/CTORLabs
 
-### ⭐ Testimonial  
-P.S. Here is a list of people I’m in contact with (Testimonials):
+### ⭐ Cooperation  
+P.S. Here is a list of people I’m in contact with 
 
 UofT (University of Toronto) — Gaming Club, Department of Computer Science.
 
@@ -147,6 +147,7 @@ https://drexel.edu/medicine/faculty/profiles/ilya-rybak/
 
 Andrew Adamatzki (Western University, UK)
 https://en.wikipedia.org/wiki/Andrew_Adamatzki
+
 # 📌 Repository Status
 
 This repository contains:
