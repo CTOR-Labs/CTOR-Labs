@@ -122,8 +122,14 @@ Contact: https://ctorgame.com/home
 Support CTOR‑Labs development:  
 👉 https://paypal.me/CTORLabs
 
----
-
+### ⭐ TEsimonial  
+P.S. Here is a list of people I’m in contact with (Testimonials):
+UofT (University of Toronto) — where Geoffrey Hinton works.
+Stephen Wolfram (Wolfram Research) — I utilize his theory of Cellular Automata.
+Alexey Pajitnov (Tetris) — he provides me with advice regarding game mechanics.
+This is a former student of mine—a brilliant scientist:
+Andrew Adamatzki (Western University, UK)
+https://en.wikipedia.org/wiki/Andrew_Adamatzki
 # 📌 Repository Status
 
 This repository contains:
