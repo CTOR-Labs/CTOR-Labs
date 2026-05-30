@@ -87,7 +87,11 @@ not artificial, not biological, but collective.
 
 # 📌 Projects at a Glance
 
-CTOR‑Labs maintains several structured research branches, each representing a distinct interaction regime inside the CTOR environment.
+CTOR-Labs supports several research tracks, each representing a distinct mode of interaction within the CTOR environment.
+
+If you are ready to join one of them, please contact me.
+
+Dr. Bronn
 
 ### 🤖 CTOR‑AI‑AI  
 AI‑vs‑AI matches for studying emergent strategies and system‑level cognition.  
