@@ -20,6 +20,13 @@ There are many potential avenues for evolving the gameplay:
 Tournaments involving humans and bots, casual games, and team-based matches (1000 vs. 1000 players on large screens).
 Modeling AI mechanics featuring the collective behavior of AI agents, as well as university-level courses on AI.
 
+# 📌 CAI Systems: A New Evolutionary Branch of Intelligence
+
+CAI (Collective Artificial Intelligence) represents a new class of intelligence emerging from interacting agents — human and artificial — operating within a shared cognitive environment.
+
+CTOR is the first experimental platform designed specifically to study this phenomenon.
+
+---
 ## 🎮 Rules and Gameplay Overview  
 
 (Available in English, German, Spanish, Chinese, Russian, French)  
@@ -43,7 +50,7 @@ https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/science/papers/ctor-new-go
 
 ---
 
-# 📌 Who Is CTOR For?
+# 📌 Who Is CTOR For in Science?
 
 ### 🎓 Students of AI & Machine Learning  
 A hands‑on environment for studying multi‑agent systems, emergent behavior, and hybrid cognition.
@@ -75,14 +82,6 @@ A modular system for building:
 ### 🚀 Visionaries & Innovators  
 A glimpse into the next evolutionary step of intelligence —  
 not artificial, not biological, but collective.
-
----
-
-# 📌 CAI Systems: A New Evolutionary Branch of Intelligence
-
-CAI (Collective Artificial Intelligence) represents a new class of intelligence emerging from interacting agents — human and artificial — operating within a shared cognitive environment.
-
-CTOR is the first experimental platform designed specifically to study this phenomenon.
 
 ---
 
