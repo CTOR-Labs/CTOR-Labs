@@ -5,7 +5,7 @@
 ---
 # 📌 Mission
 
-Our mission is to build a modular, flexible game engine that can serve as a testbed for AI systems, human–AI co‑play, and collective intelligence research.
+Our mission is to explore various spheres of game application by creating platforms that can serve as a testing ground for gameplay between AI bots, collaborative play between humans and AI, as well as research in the field of collective intelligence.
 
 As part of the global mission, one way to advance this area of ​​AI could be through the creation of commercial products based on the game. The potential audience for such products is comparable to that of chess and Go players (hundreds of millions). Casual versions (designed to develop and train one's thinking quickly) could also have larger circulations.
 ---
@@ -15,6 +15,10 @@ As part of the global mission, one way to advance this area of ​​AI could be
 
 CTOR is a next‑generation abstract strategy game built on a toroidal board.  
 It is intentionally more complex than Go and designed to explore deep strategic reasoning, multi‑agent collaboration, and collective artificial intelligence.
+
+There are many potential avenues for evolving the gameplay:
+Tournaments involving humans and bots, casual games, and team-based matches (1000 vs. 1000 players on large screens).
+Modeling AI mechanics featuring the collective behavior of AI agents, as well as university-level courses on AI.
 
 ## 🎮 Rules and Gameplay Overview  
 
