@@ -123,17 +123,8 @@ Stack: Copilot – Lovable – GitHub – VS Code – Vercel
 
 # 🤝 How to Contribute
 
-### ⭐ Ambassador  
-Share CTOR, invite others, spread the mission.  
-Subscribe: https://ctorgame.com/subscribe
-
-### ⭐ Team Member  
-Join development as CTO, CMO, or domain lead.  
-Contact: https://ctorgame.com/home
-
-### ⭐ Sponsor  
-Support CTOR‑Labs development:  
-👉 https://paypal.me/CTORLabs
+### ⭐ Friend Gamer Ambassador  Sponsor Partner 
+Subscribe: https://ctorgame.com
 
 ### ⭐ Cooperation  
 P.S. Here is a list of people I’m in contact with 
