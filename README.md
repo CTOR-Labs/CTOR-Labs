@@ -1,13 +1,16 @@
 <img src="https://raw.githubusercontent.com/CTOR-Labs/CTOR-Labs/main/CTOR%20LOGO%20APP%20horisont%201%20(2).png" 
      alt="CTOR Logo" width="260" align="right">
 # CTOR‑Labs  
-### CTOR-Labs serves as the central gateway to the working repositories of the CTOR game ecosystem and its applications across various fields of activity.
+### CTOR-Labs serves as the central gateway to the working repositories of the CTOR game ecosystem and its applications across various fields of activity. CTOR‑Labs: An open project available for non‑commercial use under the MIT License.
+
 ---
 # 📌 Mission
 
-Our mission is to explore various spheres of game application by creating platforms that can serve as a testing ground for gameplay between AI bots, collaborative play between humans and AI, as well as research in the field of collective intelligence.
+Our mission is to explore various spheres of CTOR game application by creating platforms that can serve as a testing ground for gameplay between AI bots, collaborative play between humans and AI, as well as research in the field of collective intelligence.
 
-As part of the global mission, one way to advance this area of ​​AI could be through the creation of commercial products based on the game. The potential audience for such products is comparable to that of chess and Go players (hundreds of millions). Casual versions (designed to develop and train one's thinking quickly) could also have larger circulations.
+As part of our broader research mission, one promising direction for advancing this domain of AI is the development of commercial products built on the CTOR framework. The potential user base for such systems is comparable to the global communities of chess and Go players — hundreds of millions of individuals engaged in structured strategic reasoning.
+
+Casual variants, designed to support rapid training and refinement of human strategic thinking, could reach even larger audiences. Commercial editions may be developed and published by independent studios under license from the copyright holder, CTOR GAME Inc., enabling wider dissemination while preserving the scientific foundations of the project.
 ---
 
 # CTOR‑Labs  
