@@ -25,14 +25,12 @@ Each player has an unlimited supply of pieces of their color.
 
 ## 3. Turn Structure
 
-During their turn, a player may perform:
+During their turn, a player may perform (in any order, or part of):
 
 - up to **two Put** operations,
-- **one Move**,
+- up to **two Move** operations,
 - **one Landing**,
-- any number of **Capture** operations,
-
-in any order, as long as all restrictions are respected.
+- any number of **Capture** operations, at any time during the turn
 
 ---
 
@@ -81,7 +79,7 @@ Restrictions:
 
 ## 7. Capture
 
-**Capture** — removing an opponent’s piece if it is fully surrounded in a 3×3 neighborhood.
+**Capture** — removing an opponent’s piece if it is fully surrounded 5 or 6 or 7 or 8, in a 3×3 neighborhood.
 
 The 3×3 neighborhood:
 
@@ -92,18 +90,16 @@ The 3×3 neighborhood:
 
 Capture is allowed if:
 
-- all 8 surrounding cells are occupied by the capturing player’s pieces;
+- 5 or 6 or 7 or  8 surrounding cells are occupied by the capturing player’s pieces;
 - the target is a real opponent piece.
 
 Capture is forbidden if:
 
 - the target is on the Outer Frame;
 - any surrounding cell is empty;
-- any surrounding cell contains an opponent piece;
 - the player attempts to remove their own piece.
 
 There is no limit to the number of Captures in a single turn.
-
 ---
 
 ## 8. Operation Restrictions
@@ -136,7 +132,6 @@ There is no limit to the number of Captures in a single turn.
 
 - cannot capture on the Outer Frame;
 - cannot remove your own pieces;
-- the 3×3 neighborhood must be fully valid.
 
 ### 8.6. Copy Behavior
 
@@ -149,6 +144,7 @@ There is no limit to the number of Captures in a single turn.
 ## 9. Toroidal Topology
 
 The CTOR board behaves as a torus.
+If a chip is placed (or moved) on a square marked with a color (number) on the inner border of the field, then its copy must be placed on the border squares of the field (of the same color or number).
 
 ### 9.1. Horizontal Transitions
 
@@ -175,22 +171,15 @@ Any action violating toroidal topology is invalid.
 ### 9.6. Figure 1 — CTOR Toroidal Structure
 
 ![CTOR FIELD NUMBERS](../RULES/field-ctor-industrial-design.png)
+          
           Figure 2 - CTOR color torus (8x8 plus 1+1 extra boarder cells)  
 ![CTOR FIELD COLOR](../RULES/CTOR-COLOR_FIELD.png)
 
 ---
 
-## 10. 3×3 Neighborhood and Capture
-
-- the neighborhood consists of 8 cells around the target;
-- toroidal transitions are applied automatically;
-- Outer Frame copies are used to complete the neighborhood;
-- Capture is allowed only when the neighborhood is fully controlled;
-- multiple Captures may be performed in a single turn.
-
 ---
 
-## 11. Game End and Victory
+## 10. Game End and Victory
 
 The game ends when:
 
