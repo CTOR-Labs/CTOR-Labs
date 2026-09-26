@@ -64,7 +64,7 @@ Forbidden:
 
 ---
 
-## 6. Landing
+## 6. Landing/Replace
 
 **Landing** — placing a new piece by removing **two of your own pieces** from the Main Board.
 
@@ -77,7 +77,7 @@ Restrictions:
 
 ---
 
-## 7. Capture
+## 7. Capture/Eat
 
 **Capture** — removing an opponent’s piece if it is fully surrounded 5 or 6 or 7 or 8, in a 3×3 neighborhood.
 
@@ -121,14 +121,14 @@ There is no limit to the number of Captures in a single turn.
 - cannot move diagonally;
 - moving onto the Outer Frame is allowed but triggers a toroidal transition.
 
-### 8.4. Landing
+### 8.4. Landing/Replace
 
 - cannot perform Landing with fewer than two of your pieces on the board;
 - cannot place on an occupied cell;
 - cannot place on the Outer Frame;
 - only one Landing per turn.
 
-### 8.5. Capture
+### 8.5. Capture/Eat
 
 - cannot capture on the Outer Frame;
 - cannot remove your own pieces;
