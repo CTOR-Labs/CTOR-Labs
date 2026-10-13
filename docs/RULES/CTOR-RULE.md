@@ -79,7 +79,7 @@ Restrictions:
 
 ## 7. Capture/Eat
 
-**Capture** — removing an opponent’s piece if it is fully surrounded 5 or 6 or 7 or 8, in a 3×3 neighborhood.
+**Capture** — removing an opponent’s piece if it is surrounded 5 or 6 or 7 or 8, in a 3×3 neighborhood.
 
 The 3×3 neighborhood:
 
