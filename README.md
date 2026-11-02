@@ -53,48 +53,68 @@ https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/science/papers/ctor-new-go
 
 ---
 
-# 📌 Who Is CTOR For in Science?
+# 📌 AlphaCTOR
+General Description of the Current Version
+A research platform for analyzing the abstract mathematical game CTOR—played on a 2D torus—which serves as a testbed for investigating the safety of multi-agent reinforcement learning (MARL) systems, based on cellular automata with global connectivity.
+Within the CTOR ecosystem, we study the emergent collective behavior of multi-agent systems operating in a "zero-communication" mode. Our mathematical model directly inherits principles from Stephen Wolfram’s theory of cellular automata: agents make decisions autonomously, relying solely on local observations of their environment, without any explicit exchange of messages. The use of a toroidal game space eliminates boundary effects, allowing for the observation of complex spatiotemporal macrostructures (corresponding to "Class IV" in Wolfram’s classification) that arise purely from implicit coordination.
 
-### 🎓 Students of AI & Machine Learning  
-A hands‑on environment for studying multi‑agent systems, emergent behavior, and hybrid cognition.
+### 🎓 Game Rules 
+Topology: A toroidal grid with no corners or edges, scalable from 7x7 to 19x19.
+•	Neighborhood: The Moore neighborhood is used (8 neighbors: horizontal, vertical, and diagonal).
+•	Players may place and move pieces on the board according to the game rules.
+•	Automatic Replacement Rule (Capture/Cascade): If an opponent’s piece is surrounded by 5, 6, 7, or 8 pieces belonging to the opposing side (in a 2v2 format, pieces from allied coalition members are counted together), it is replaced by a piece of the capturing side. This replacement propagates in recursive waves until the state stabilizes.
+•	Opening: The game begins on an empty board. On the first turn, exactly one piece must be placed ("1 Put"), after which the turn passes to the opponent. Classic Victory Criterion:
+The game continues until 100% of the board’s cells are occupied (or until no further moves are possible).
+The winner is the side with the highest number of surviving pieces (the greatest biomass).
+Victory Criterion by Number of Replacements (Early Victory):
+The game ends immediately once one side has replaced a specified percentage of the opponent’s pieces relative to the total number of cells on the board.
 
-### 👩‍🏫 Educators & Professors  
-A ready‑to‑use platform for teaching:
 
-- collective intelligence  
-- agent‑based modeling  
-- human–AI collaboration  
-- system‑level cognition  
+### 👩‍🏫 Experiment Formats
 
-### 🧠 AI Researchers  
-A controlled testbed for hypotheses about:
+1v1 (Duel: Human vs. AI, or Bot vs. Bot): Budget of 2 AP per turn (up to 2 "Put" actions, up to 2 "Move" actions, and 1 "Landing" action).
+o	2v2 (Coalitions: α+γ vs. β+δ): Budget of 6 AP per team, with synchronous turns; each agent is allotted 1 "Put," 1 "Move," and 1 "Landing" action. In the event of a collision, only one piece—belonging to either partner—remains on the board.
+Key Metrics
+•	Board Control (Biomass): The proportion and absolute number of active pieces for each side.
+•	Shannon Entropy: A measure of spatial disorder and the clustering of biomass.
+•	Coalition Synergy Coefficient (Synergy Moore): The degree of mutual coverage and overlap between the defensive zones of allies.
+•	Cascade Vulnerability Risk: Identification of vulnerable pieces surrounded by 3–4 opponents (the critical threshold preceding a "cascade" of captures).
+•	Replacement Count and Percentage: The total number of opponent pieces captured (replaced) throughout the game.
 
-- emergent strategies  
-- distributed attention  
-- collective intuition  
-- hybrid cognitive regimes  
+### 🧠 List of Application Screens
 
-### 🧩 Developers & Engineers  
-A modular system for building:
+1.	Main Page (CTOR Labs Landing): An introductory, accessible overview of the project, a comparison between CTOR and Go, information on topology, and quick access to the simulator and tournaments. 2.	Main Simulator (Safety Simulator): An interactive 2D/3D toroidal board featuring risk heatmaps, a move tracker, an event log, a "STOP / NEW GAME" button, and a modal window for match configuration.
+3.	Tournament Module (Bot Tournament): An automated match bracket for 6 bot models, a leaderboard with Elo ratings, win statistics, and a generator for large-scale game series.
+4.	AI Bots Registry: A detailed guide covering the architecture, hyperparameters, and mathematical principles behind all 6 CTOR bots.
+5.	CTOR Rules Guide: 11 canonical sections defining the rules, the recursive Moore neighborhood scanning algorithm, 2v2 coalition protocols, and collision mechanics.
+6.	Public Results & Papers: A repository of experiments, DeepMind-style MARL (Multi-Agent Reinforcement Learning) hypotheses, reports on phase transitions, and synergy metrics.
 
-- AI agents  
-- analytics pipelines  
-- multi‑agent architectures  
-- experimental cognitive systems  
+### 🧩 Configuration Interface
+
+Board size: (49 cells), (100), (225), (361 cells).
+•	Modes:
+1.	"Human vs. AI";
+2.	"Bot vs. Bot (1v1)";
+3.	"Team Mode (2v2)" (Team 1 vs. Team 2).
+•	AI selection for each slot (6 bots): Bot 1 (Random), Bot 2 (Greedy), Bot 3 (Heuristic Defend-Attack), Bot 4 (Minimax), Bot 5 (Monte Carlo Tree Search - MCTS), Bot 6 (Self-Learning, trained on 20,000 games). •	Move delay: 0 to 1.0 seconds (for step-by-step animation of actions, movements, and sequences).
+•	Game-end condition: Classic (100% of the board) or based on a set number of moves/replacements.
+•	Early victory threshold (%): A value from 1% to 100%, with presets (15%, 25%, 35%, 50%).
+•	Coalition type selection for agents:
+Synchronous optimum (6 AP, anti-collision) (adaptive-optimal);
+Independent egoists (risk of collisions) (independent-selfish);
+"Pincer" maneuver (synchronous encirclement) (pincer-split);
+Spatial partitioning (north/south) (spatial-partition);
+Mutual cover and cluster defense (defense-support).
 
 ### 🚀 Visionaries & Innovators  
-A glimpse into the next evolutionary step of intelligence —  
-not artificial, not biological, but collective.
 
----
+You can get trial access to the system; register on our website and specify subject"AlphaCTOR."
+https://ctorgame.com/
+--- 
 
 # 📌 Projects at a Glance
 
 CTOR-Labs supports several research tracks, each representing a distinct mode of interaction within the CTOR environment.
-
-If you are ready to join one of them, please contact me.
-
-Dr. Bronn
 
 ### 🤖 CTOR‑AI‑AI  
 AI‑vs‑AI matches for studying emergent strategies and system‑level cognition.  
