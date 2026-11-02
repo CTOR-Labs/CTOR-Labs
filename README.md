@@ -60,12 +60,18 @@ Within the CTOR ecosystem, we study the emergent collective behavior of multi-ag
 
 ### 🎓 Game Rules 
 Topology: A toroidal grid with no corners or edges, scalable from 7x7 to 19x19.
+
 •	Neighborhood: The Moore neighborhood is used (8 neighbors: horizontal, vertical, and diagonal).
+
 •	Players may place and move pieces on the board according to the game rules.
+
 •	Automatic Replacement Rule (Capture/Cascade): If an opponent’s piece is surrounded by 5, 6, 7, or 8 pieces belonging to the opposing side (in a 2v2 format, pieces from allied coalition members are counted together), it is replaced by a piece of the capturing side. This replacement propagates in recursive waves until the state stabilizes.
+
 •	Opening: The game begins on an empty board. On the first turn, exactly one piece must be placed ("1 Put"), after which the turn passes to the opponent. Classic Victory Criterion:
+
 The game continues until 100% of the board’s cells are occupied (or until no further moves are possible).
 The winner is the side with the highest number of surviving pieces (the greatest biomass).
+
 Victory Criterion by Number of Replacements (Early Victory):
 The game ends immediately once one side has replaced a specified percentage of the opponent’s pieces relative to the total number of cells on the board.
 
@@ -73,8 +79,10 @@ The game ends immediately once one side has replaced a specified percentage of t
 ### 👩‍🏫 Experiment Formats
 
 1v1 (Duel: Human vs. AI, or Bot vs. Bot): Budget of 2 AP per turn (up to 2 "Put" actions, up to 2 "Move" actions, and 1 "Landing" action).
+
 o	2v2 (Coalitions: α+γ vs. β+δ): Budget of 6 AP per team, with synchronous turns; each agent is allotted 1 "Put," 1 "Move," and 1 "Landing" action. In the event of a collision, only one piece—belonging to either partner—remains on the board.
 Key Metrics
+
 •	Board Control (Biomass): The proportion and absolute number of active pieces for each side.
 •	Shannon Entropy: A measure of spatial disorder and the clustering of biomass.
 •	Coalition Synergy Coefficient (Synergy Moore): The degree of mutual coverage and overlap between the defensive zones of allies.
@@ -83,11 +91,15 @@ Key Metrics
 
 ### 🧠 List of Application Screens
 
-1.	Main Page (CTOR Labs Landing): An introductory, accessible overview of the project, a comparison between CTOR and Go, information on topology, and quick access to the simulator and tournaments. 2.	Main Simulator (Safety Simulator): An interactive 2D/3D toroidal board featuring risk heatmaps, a move tracker, an event log, a "STOP / NEW GAME" button, and a modal window for match configuration.
-3.	Tournament Module (Bot Tournament): An automated match bracket for 6 bot models, a leaderboard with Elo ratings, win statistics, and a generator for large-scale game series.
-4.	AI Bots Registry: A detailed guide covering the architecture, hyperparameters, and mathematical principles behind all 6 CTOR bots.
-5.	CTOR Rules Guide: 11 canonical sections defining the rules, the recursive Moore neighborhood scanning algorithm, 2v2 coalition protocols, and collision mechanics.
-6.	Public Results & Papers: A repository of experiments, DeepMind-style MARL (Multi-Agent Reinforcement Learning) hypotheses, reports on phase transitions, and synergy metrics.
+Main Page (CTOR Labs Landing): An introductory, accessible overview of the project, a comparison between CTOR and Go, information on topology, and quick access to the simulator and tournaments. 2.	Main Simulator (Safety Simulator): An interactive 2D/3D toroidal board featuring risk heatmaps, a move tracker, an event log, a "STOP / NEW GAME" button, and a modal window for match configuration.
+
+Tournament Module (Bot Tournament): An automated match bracket for 6 bot models, a leaderboard with Elo ratings, win statistics, and a generator for large-scale game series.
+
+AI Bots Registry: A detailed guide covering the architecture, hyperparameters, and mathematical principles behind all 6 CTOR bots.
+
+CTOR Rules Guide: 11 canonical sections defining the rules, the recursive Moore neighborhood scanning algorithm, 2v2 coalition protocols, and collision mechanics.
+
+Public Results & Papers: A repository of experiments, DeepMind-style MARL (Multi-Agent Reinforcement Learning) hypotheses, reports on phase transitions, and synergy metrics.
 
 ### 🧩 Configuration Interface
 
