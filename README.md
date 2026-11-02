@@ -55,6 +55,7 @@ https://github.com/CTOR-Labs/CTOR-Labs/blob/main/docs/science/papers/ctor-new-go
 
 # 📌 AlphaCTOR
 General Description of the Current Version
+
 A research platform for analyzing the abstract mathematical game CTOR—played on a 2D torus—which serves as a testbed for investigating the safety of multi-agent reinforcement learning (MARL) systems, based on cellular automata with global connectivity.
 Within the CTOR ecosystem, we study the emergent collective behavior of multi-agent systems operating in a "zero-communication" mode. Our mathematical model directly inherits principles from Stephen Wolfram’s theory of cellular automata: agents make decisions autonomously, relying solely on local observations of their environment, without any explicit exchange of messages. The use of a toroidal game space eliminates boundary effects, allowing for the observation of complex spatiotemporal macrostructures (corresponding to "Class IV" in Wolfram’s classification) that arise purely from implicit coordination.
 
@@ -81,12 +82,17 @@ The game ends immediately once one side has replaced a specified percentage of t
 1v1 (Duel: Human vs. AI, or Bot vs. Bot): Budget of 2 AP per turn (up to 2 "Put" actions, up to 2 "Move" actions, and 1 "Landing" action).
 
 o	2v2 (Coalitions: α+γ vs. β+δ): Budget of 6 AP per team, with synchronous turns; each agent is allotted 1 "Put," 1 "Move," and 1 "Landing" action. In the event of a collision, only one piece—belonging to either partner—remains on the board.
-Key Metrics
+
+### 👩‍🏫 Key Metrics
 
 •	Board Control (Biomass): The proportion and absolute number of active pieces for each side.
+
 •	Shannon Entropy: A measure of spatial disorder and the clustering of biomass.
+
 •	Coalition Synergy Coefficient (Synergy Moore): The degree of mutual coverage and overlap between the defensive zones of allies.
+
 •	Cascade Vulnerability Risk: Identification of vulnerable pieces surrounded by 3–4 opponents (the critical threshold preceding a "cascade" of captures).
+
 •	Replacement Count and Percentage: The total number of opponent pieces captured (replaced) throughout the game.
 
 ### 🧠 List of Application Screens
@@ -104,14 +110,22 @@ Public Results & Papers: A repository of experiments, DeepMind-style MARL (Multi
 ### 🧩 Configuration Interface
 
 Board size: (49 cells), (100), (225), (361 cells).
-•	Modes:
+
+Modes:
 1.	"Human vs. AI";
 2.	"Bot vs. Bot (1v1)";
 3.	"Team Mode (2v2)" (Team 1 vs. Team 2).
-•	AI selection for each slot (6 bots): Bot 1 (Random), Bot 2 (Greedy), Bot 3 (Heuristic Defend-Attack), Bot 4 (Minimax), Bot 5 (Monte Carlo Tree Search - MCTS), Bot 6 (Self-Learning, trained on 20,000 games). •	Move delay: 0 to 1.0 seconds (for step-by-step animation of actions, movements, and sequences).
-•	Game-end condition: Classic (100% of the board) or based on a set number of moves/replacements.
-•	Early victory threshold (%): A value from 1% to 100%, with presets (15%, 25%, 35%, 50%).
-•	Coalition type selection for agents:
+
+AI selection for each slot (6 bots): Bot 1 (Random), Bot 2 (Greedy), Bot 3 (Heuristic Defend-Attack), Bot 4 (Minimax), Bot 5 (Monte Carlo Tree Search - MCTS), Bot 6 (Self-Learning, trained on 20,000 games). 
+
+Move delay: 0 to 1.0 seconds (for step-by-step animation of actions, movements, and sequences).
+
+Game-end condition: Classic (100% of the board) or based on a set number of moves/replacements.
+
+Early victory threshold (%): A value from 1% to 100%, with presets (15%, 25%, 35%, 50%).
+
+Coalition type selection for agents:
+
 Synchronous optimum (6 AP, anti-collision) (adaptive-optimal);
 Independent egoists (risk of collisions) (independent-selfish);
 "Pincer" maneuver (synchronous encirclement) (pincer-split);
